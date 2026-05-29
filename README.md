@@ -83,9 +83,9 @@ Perfect for:
 |-----------|------|---------|----------|
 | <img src="screenshots/chat-ghost.png" width="150" alt="Ghost mode chat"> | <img src="screenshots/create-space.png" width="150" alt="Create space"> | <img src="screenshots/profile.png" width="150" alt="User profile"> | <img src="screenshots/settings.png" width="150" alt="App settings"> |
 
-| Splash |
+| Chatting |
 |--------|
-| <img src="screenshots/splash.png" width="150" alt="Splash screen"> |
+| <img src="screenshots/splash.png" width="150" alt="Chat screen"> |
 
 </div>
 
