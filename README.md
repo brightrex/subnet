@@ -21,7 +21,7 @@
 
 Perfect for:
 - Connecting with people on the same WiFi network
-- Quick team communication in offices, colleges, hostels, cafes, or events
+- Quick team communication in offices, cafes, colleges, hostels or events
 - Privacy-conscious local communication
 - Exploring peer-to-peer networking
 
